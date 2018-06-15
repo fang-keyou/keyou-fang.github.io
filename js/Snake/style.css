@@ -1,0 +1,85 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-size: 18px;
+  font-family: STHeiti, 'Microsoft Yahei', 微软雅黑, Arial, sans-serif;
+  line-height: 2;
+}
+
+#container {
+  border: 1px solid #000;
+  margin: 20px auto;
+}
+
+#container div{
+  float:left;
+  border: 1px solid #EEE;
+}
+
+#container .body{
+  background-color: #999;
+}
+
+#container .head{
+  background-color: #111;
+}
+
+#container .food{
+  background-color: #A00;
+  transition: background-color .6s ease,
+              border-color .6s ease;
+}
+
+#container .tb{
+  border-top: 1px solid #999;
+}
+
+#container .rb{
+  border-right: 1px solid #999;
+}
+
+#container .bb{
+  border-bottom: 1px solid #999;
+}
+
+#container .lb{
+  border-left: 1px solid #999;
+}
+
+#container .button {
+  position: absolute;
+  text-align: center;
+  color: #111;
+  background-color: #EAEAEA;
+  border-color: #111;
+  cursor: pointer;
+  transition: background-color .6s ease,
+              border-color .6s ease,
+              color .6s ease;
+  box-shadow: 10px 10px 5px #DDD;
+}
+
+#container .focus,
+#container .button:hover{
+  color: #FFF;
+  background-color: #111;
+}
+
+#container .title {
+  border: 1px solid #999;
+  transition: background-color .6s ease,
+              border-color .6s ease,
+              color .6s ease;
+}
+
+#container #scoreboard {
+  position: absolute;
+  text-align: center;
+  color: #111;
+  background-color: #EAEAEA;
+  border-color: #111;
+  box-shadow: 10px 10px 5px #DDD;
+}
