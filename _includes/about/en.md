@@ -13,13 +13,13 @@
 >
 Combinatorial mathematics depends on luck, and computation is violent.
 >
-Graph theory forcibly formwork, number theory will only be GCD.
+>Graph theory forcibly formwork, number theory will only be GCD.
 >
-Recursive recursion can not afford to fail, search for TLE.
+>Recursive recursion can not afford to fail, search for TLE.
 >
-Divide and conquer is like enumeration, the first enumeration of violence.
+>Divide and conquer is like enumeration, the first enumeration of violence.
 >
 > data structure is stare, anger brush water problem to find confidence.
 >
->I felt so good about myself that I was totally stupid in the exam.
+>I felt so good about myself ,but totally stupid in the exam.
 
