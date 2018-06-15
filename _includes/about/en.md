@@ -3,7 +3,7 @@
 >
 >Before we leave the world, everything is a process.
 
-## Hey, I'm Shen Yiyang, Programmer, the degree of evolution is unknown, mostly in [Blog] (https://billyiloveyou.blog.luogu.org), [Github] (http://github.com/FangKeyou), and so on. The trick is still in development.
+## Hey, I'm Shen Yiyang, Programmer, the degree of evolution is unknown, mostly in [Blog](https://billyiloveyou.blog.luogu.org), [Github](http://github.com/FangKeyou), and so on. The trick is still in development.
 
 ## Life motto:
 
