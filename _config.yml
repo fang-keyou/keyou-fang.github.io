@@ -64,7 +64,10 @@ netease_comment: false
 ga_track_id: 'UA-49627206-1'            # Format: UA-xxxxxx-xx
 ga_domain: huangxuan.me
 
-
+leancloud_visitors:
+  enable: true
+  app_id: Rsr2vb6m50xfHQFuHCjnY1aa-gzGzoHsz
+  app_key: BBOJ6wlnRnBUd4qK0C4GpByW
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
