@@ -86,7 +86,15 @@ featured-condition-size: 1              # A tag will be featured if the size of 
 chrome-tab-theme-color: "#000000"
 service-worker: true
 
-
+valine: 
+ appid:  Rsr2vb6m50xfHQFuHCjnY1aa-gzGzoHsz
+ appkey:  BBOJ6wlnRnBUd4qK0C4GpByW
+ verify: true #验证码
+ notify: false #评论回复提醒
+ avatar: '' #评论列表头像样式：''/mm/identicon/monsterid/wavatar/retro/hide
+ avatar_cdn: 'https://sdn.geekzu.org/avatar/' #头像CDN
+ placeholder: '瞎BB' #评论框占位符
+ pageSize: 15 #评论分页
 
 # Friends
 friends: [
