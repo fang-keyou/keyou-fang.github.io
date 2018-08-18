@@ -1,3 +1,7 @@
+你是第
+![](http://cc.amazingcounters.com/counter.php?i=3225958&c=9678187)
+来的人
+
 > 写写代码，做做笔记，  
 > 离开世界之前，一切都是过程。
 
