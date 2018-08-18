@@ -1,6 +1,4 @@
-You are the 
-![](http://cc.amazingcounters.com/counter.php?i=3225958&c=9678187)
-th people who came there
+You are the ![](http://cc.amazingcounters.com/counter.php?i=3225958&c=9678187)th people who came there
 
 >Write code, make notes,
 >
